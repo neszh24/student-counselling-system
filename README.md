@@ -17,6 +17,12 @@ cd frontend
 npm install         # Install dependencies
 npm run dev         # Start development server (usually at http://localhost:5173)
 
+frontend login:
+User1: student1, pass123
+User2: student2, pass234
+User3: counselor1, pass1234
+User4: counselor2, pass1234
+
 ⚙️ student-counselling-system-backend (Spring Boot)
 Location: student-counselling-system-backend/
 
@@ -32,7 +38,7 @@ Open backend/ folder in IntelliJ
 
 Wait for dependencies to resolve (Maven auto-import)
 
-Run StudentCounsellingSystemApplication.java (main class)
+Run StudentCounsellingSystemApplication.java (main class)[Rebuild Project, Run AppoinmentserviceApplication]
 
 Backend runs on: http://localhost:8080
 
